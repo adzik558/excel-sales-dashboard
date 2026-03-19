@@ -4,7 +4,7 @@ Projekt przedstawia interaktywny dashboard sprzedaży stworzony w Microsoft Exce
 ## Struktura repozytorium
 
 ```plaintext
-network-traffic-analysis-anomaly-detection/
+excel-sales-dashboard/
 ├── README.md
 └── sales_dashboard.xlsx
 ```
