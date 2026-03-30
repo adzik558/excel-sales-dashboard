@@ -6,7 +6,7 @@ Projekt przedstawia interaktywny dashboard sprzedaży stworzony w Microsoft Exce
 ```plaintext
 excel-sales-dashboard/
 ├── README.md
-└── sales_dashboard.xlsx
+└── usa_sales_dataset_dashboard.xlsx
 ```
 
 ## Wykorzystane narzędzia
