@@ -12,18 +12,15 @@ excel-sales-dashboard/
 ## Wykorzystane narzędzia
 
 - Microsoft Excel
-- Power Query (czyszczenie i transformacja danych)
-- Tabele przestawne
-- Wykresy przestawne
-- Fragmentatory (slicery)
+- Power Query 
 
 ## Kluczowe elementy
 
-- Wskaźniki KPI (łączna sprzedaż, liczba zamówień, średnia wartość zamówienia, liczba klientów)
-- Analiza trendu sprzedaży w czasie
-- Analiza najlepiej sprzedających się podkategorii
-- Porównanie sprzedaży w regionach
-- Interaktywny dashboard z możliwością filtrowania danych (Region, Kategoria)
+- Stworzenie interaktywnego dashboardu sprzedaży w Excelu
+- Integracja danych i ich transformacja (Power Query)
+- Analiza KPI oraz trendów sprzedaży
+- Zastosowanie tabel przestawnych, slicerów i map
+- Zapewnienie interaktywności raportu (filtry globalne)
 
 ## Cel projektu
 
@@ -37,4 +34,8 @@ Celem projektu było przećwiczenie analizy danych oraz budowy dashboardu w Exce
 - Sprzedaż koncentruje się w ograniczonej liczbie grup produktowych
 - Widoczne wahania mogą wskazywać na sezonowość sprzedaży
 
-<img width="1539" height="630" alt="image" src="https://github.com/user-attachments/assets/7b82c4bd-8e26-4d94-83ce-b651e1fbb858" />
+
+<img width="1864" height="646" alt="image" src="https://github.com/user-attachments/assets/7cca79bc-cf79-4d40-91ee-9da7d2bf265f" />
+
+
+Źródło danych: https://www.kaggle.com/datasets/sulaimanahmed/sales-dataset-of-usa-updated
